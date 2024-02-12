@@ -47,7 +47,10 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_music: yes
           plugin_music_limit: 4
-          plugin_music_mode: recent
+          plugin_music_limit: 4
+          plugin_music_mode: playlist
+          plugin_music_played_at: yes
+          plugin_music_playlist: https://music.apple.com/za/playlist/driving/pl.u-11zBJ73ckKBxxg
           plugin_music_provider: apple
           plugin_music_time_range: short
           plugin_music_top_type: tracks
@@ -60,4 +63,4 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198161300362
+          plugin_steam_user: https://steamcommunity.com/profiles/76561198161300362
