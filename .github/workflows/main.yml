@@ -52,14 +52,14 @@ jobs:
           plugin_music_provider: apple
           plugin_music_time_range: short
           plugin_music_top_type: artists
-          plugin_music_user: imaadfaki
+          plugin_music_user: @imaadfaki
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: https://steamcommunity.com/profiles/76561198161300362
+          plugin_steam_user: 76561198161300362
