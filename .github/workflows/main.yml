@@ -52,7 +52,7 @@ jobs:
           plugin_music_provider: apple
           plugin_music_time_range: short
           plugin_music_top_type: artists
-          plugin_music_user: @imaadfaki
+          plugin_music_user: imaadfaki
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_steam: yes
